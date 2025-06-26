@@ -1,7 +1,7 @@
 # Snake Game Extension – Web System Programming Assignment
-Course: Web System Programming
-Author: Seongyeon Son
-Assignment: Implement and enhance a basic socket-based Snake game (Client/Server)
+- Course: Web System Programming
+- Author: Seongyeon Son
+- Assignment: Implement and enhance a basic socket-based Snake game (Client/Server)
 
 🎮 Description:
 This project builds upon the socket-based multiplayer Snake game code provided during class. I extended the existing base by implementing five additional features independently as part of the assignment:
