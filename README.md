@@ -28,8 +28,6 @@ Ensures each client can only move within its own screen boundaries.
 2. server.js – Server-side logic
 3. README.md
 
-Additional scripts and assets used in development
-
 ⚠️ Note
 All additional features were implemented by myself, referencing in-class material and extending it through trial-and-error with the help of ChatGPT where needed.
 
