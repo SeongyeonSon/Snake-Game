@@ -30,4 +30,6 @@ Ensures each client can only move within its own screen boundaries.
 
 ⚠️ Note:
 All additional features were implemented by myself, referencing in-class material and extending it through trial-and-error with the help of ChatGPT where needed.
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/77ac16a9-e752-4b94-bd8e-09f74319ac03" />
+
 
